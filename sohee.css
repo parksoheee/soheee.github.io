@@ -1,0 +1,160 @@
+@font-face {
+        font-family: 'GmarketSansBold';
+        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+@font-face {
+        font-family: 'GmarketSansMedium';
+        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+    
+@font-face {
+        font-family: 'Pretendard-Regular';
+        src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+        font-weight: 400;
+        font-style: normal;
+    }
+    body {
+        background-color: rgb(244, 232, 209);}
+#box1 {
+    position: relative;
+    top: 70px;
+    left:850px;
+    width: 450px;
+        }
+.box2 {
+    position: relative;
+    font-family: 'GmarketSansMedium';
+    font-size: 19px;
+    color: #7f604b;
+    top: 50px; 
+    left:-700px
+}
+   #box3 {
+    position: relative;
+    text-align: right;
+    border-bottom: 5px solid #ffffff;
+    top: 53px;
+    left: -700px;
+    width: 1400px;
+   }
+   #box4 {
+    position: relative;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    color: #603a20;
+    top:78px;
+    left:-700px}
+ 
+ #box6 {
+    font-family:'GmarketSansBold' ;
+    position: relative;
+    top: -10px;
+    color: #c8513c;
+    left:-430px;
+    font-size: 43px;
+   }
+   #box7{
+    position: relative;
+    font-family: 'Times New Roman';
+    font-size: 46px;
+    color: #c8513c;
+    top: -230px;
+    left:360px
+}
+#box8{ 
+    position:absolute;
+    top: 510px;
+    left:-130px;
+    width:30px;}
+ #box9{ 
+        position:absolute;
+        top: 1400px;
+        left:-130px;
+        width:30px;}
+#box10{
+    position:absolute;
+    top: 2350px;
+    left:-130px;
+    width:30px;}
+ #box11{ 
+    font-family:'GmarketSansMedium' ;
+    position:relative;
+    top: -175px;
+    color: #c46251;
+    left:-430px;
+    font-size: 17px;}
+    #box12{ 
+     
+     position: relative;
+     text-align: right;
+     border-bottom: 3px solid #ffffff;
+     font-size: 20px;
+     color: #838383;
+     top: 1550px;
+     left: -700px;
+     width: 1400px;}
+
+     #box13{
+        font-family:'GmarketSansMedium' ;
+        position: relative;
+        top: 1605px;
+        color: #c46251;
+        left:-430px;
+        font-size: 18px;}
+     #box14{
+            font-family:'GmarketSansBold' ;
+            position: relative;
+            top: 2130px;
+            color: #c8513c;
+            left:-430px;
+            font-size: 43px;}
+     #box15{
+            position: relative;
+            text-align: right;
+            border-bottom: 5px solid #ffffff;
+            top: 1960px;
+            left: -700px;
+            width: 1400px;}
+    #box16{
+        font-family:'GmarketSansMedium' ;
+        position: relative;
+        top: 2080px;
+        color: #c46251;
+        left:-430px;
+        font-size: 18px;}
+        
+    #box17{
+        position:absolute;
+        top: 3020px;
+        left:-130px;
+        width:30px;}
+    #box18{
+        position:absolute;
+        top: 3550px;
+        left:-130px;
+        width:30px;}
+    #box19{
+        position:absolute;
+        top: 4100px;
+        left:-130px;
+        width:30px;}
+#box20 {
+         position: relative;
+         text-align: right;
+         border-bottom: 5px solid #ffffff;
+         top: 3600px;
+         left: -600px;
+         width: 1440px;}
+#box21 {
+        position: relative;
+        font-family: 'Times New Roman';
+        font-size: 20px;
+        color: #603a20;
+        top:-1640px;
+        left:-1320px}
+         
